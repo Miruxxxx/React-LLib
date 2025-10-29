@@ -4,4 +4,4 @@
 
 ![Preview](demo.gif)
 
-🔗 [Открыть демо](https://ТВОЙ_ЛОГИН.github.io/ИМЯ_РЕПО)
+🔗 [Открыть демо](https://miruxxxx.github.io/React-LLib)
