@@ -1,0 +1,127 @@
+/* ========================================
+   NAVBAR - Навигационная панель
+   ======================================== */
+
+.navbar {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(12px);
+  box-shadow: var(--shadow-md);
+  border-bottom: 1px solid var(--color-gray-200);
+  position: sticky;
+  top: 0;
+  z-index: 50;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 4rem;
+  padding: 0 var(--spacing-md);
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+}
+
+.navbar-logo {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  border-radius: var(--radius-sm);
+}
+
+.navbar-links {
+  display: flex;
+  gap: var(--spacing-xl);
+}
+
+.nav-link {
+  padding: var(--spacing-sm) 0.75rem;
+  border-radius: var(--radius-md);
+  font-size: 0.875rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all var(--transition-base);
+  color: var(--color-gray-700);
+}
+
+.nav-link:hover {
+  color: var(--color-primary);
+  background-color: rgba(59, 130, 246, 0.1);
+}
+
+.nav-link.active {
+  color: var(--color-primary);
+  background-color: rgba(59, 130, 246, 0.1);
+}
+
+/* Account button */
+.navbar-right {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.account-button {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  padding: 0.375rem var(--spacing-sm);
+  border: 1px solid var(--color-gray-200);
+  border-radius: var(--radius-full);
+  background: white;
+  color: var(--color-gray-800);
+  cursor: pointer;
+  transition: all var(--transition-base);
+}
+
+.account-button:hover {
+  background-color: var(--color-gray-50);
+  border-color: var(--color-gray-300);
+}
+
+.avatar {
+  width: 28px;
+  height: 28px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-full);
+  background: var(--gradient-primary);
+  color: white;
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.account-name {
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--color-gray-800);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .navbar-container {
+    height: 3.5rem;
+  }
+  
+  .navbar-logo {
+    width: 28px;
+    height: 28px;
+  }
+  
+  .navbar-links {
+    gap: var(--spacing-md);
+  }
+  
+  .nav-link {
+    padding: 0.375rem var(--spacing-sm);
+  }
+  
+  .account-name {
+    display: none;
+  }
+}

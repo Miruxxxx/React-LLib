@@ -1,0 +1,208 @@
+﻿/* ========================================
+   ABITUR PAGE - РЎРїРµС†РёС„РёС‡РЅС‹Рµ СЃС‚РёР»Рё
+   Р‘Р°Р·РѕРІС‹Рµ СЃС‚РёР»Рё РёРјРїРѕСЂС‚РёСЂСѓСЋС‚СЃСЏ РёР· common.css
+   ======================================== */
+
+.abitur-page {
+  padding: var(--spacing-xl) 0;
+}
+
+/* Р”РµС‚Р°Р»Рё РєР°СЂС‚РѕС‡РєРё СѓС‡РµРЅРёРєР° */
+.student-card {
+  position: relative;
+}
+
+.student-card-details {
+  flex: 1;
+  margin-bottom: var(--spacing-md);
+}
+
+.student-card-details p {
+  margin: var(--spacing-sm) 0;
+  color: var(--color-gray-500);
+  font-size: 0.875rem;
+  line-height: 1.5;
+}
+
+.student-card-details strong {
+  color: var(--color-gray-700);
+  font-weight: 600;
+}
+
+/* РҐРµРґРµСЂ РєР°СЂС‚РѕС‡РєРё СѓС‡РµРЅРёРєР° */
+.student-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: var(--spacing-md);
+  gap: var(--spacing-sm);
+}
+
+.student-card-header-main {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xs);
+  flex: 1;
+  min-width: 0;
+}
+
+.student-card-title {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  flex-wrap: wrap;
+}
+
+.student-name {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: var(--color-gray-800);
+  margin: 0;
+  flex: 1;
+  line-height: 1.4;
+}
+
+.student-card-menu-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--spacing-xs);
+  border: none;
+  background: transparent;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: background var(--transition-base), color var(--transition-base), transform var(--transition-fast);
+  color: var(--color-gray-500);
+}
+
+.student-card-menu-toggle:hover,
+.student-card-menu-toggle:focus-visible {
+  background: var(--color-gray-100);
+  color: var(--color-gray-700);
+  outline: none;
+}
+
+.student-card-menu-icon {
+  width: 4px;
+  height: 4px;
+  border-radius: var(--radius-full);
+  background: currentColor;
+  position: relative;
+}
+
+.student-card-menu-icon::before,
+.student-card-menu-icon::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  width: 4px;
+  height: 4px;
+  border-radius: var(--radius-full);
+  background: currentColor;
+}
+
+.student-card-menu-icon::before {
+  top: -6px;
+}
+
+.student-card-menu-icon::after {
+  top: 6px;
+}
+
+.student-card-menu {
+  position: absolute;
+  top: var(--spacing-sm);
+  right: var(--spacing-sm);
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xs);
+  padding: var(--spacing-sm);
+  background: #fff;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+  border: 1px solid var(--color-gray-200);
+  min-width: 180px;
+  z-index: 10;
+}
+
+.student-card-menu-item {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--spacing-sm);
+  padding: 0.5rem var(--spacing-sm);
+  border: none;
+  background: transparent;
+  border-radius: var(--radius-md);
+  color: var(--color-gray-700);
+  font-size: 0.875rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background var(--transition-base), color var(--transition-base);
+}
+
+.student-card-menu-item:hover,
+.student-card-menu-item:focus-visible {
+  background: var(--color-gray-100);
+  color: var(--color-gray-900);
+  outline: none;
+}
+
+.student-card-menu-item--delete {
+  color: var(--color-danger);
+  font-weight: 700;
+}
+
+.student-card-menu-item--delete:hover,
+.student-card-menu-item--delete:focus-visible {
+  background: rgba(239, 68, 68, 0.15);
+  color: var(--color-danger-dark);
+}
+
+/* РҐРµРґРµСЂ СЃРїРёСЃРєР° СЃ С„РёР»СЊС‚СЂР°РјРё */
+.students-list-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--spacing-lg);
+  gap: var(--spacing-md);
+}
+
+.students-controls {
+  display: flex;
+  gap: var(--spacing-md);
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+/* РЎРµР»РµРєС‚ РґР»СЏ СѓР·РєРѕРіРѕ РІС‹Р±РѕСЂР° (РЅР°РїСЂРёРјРµСЂ РєРѕР»РёС‡РµСЃС‚РІРѕ РЅР° СЃС‚СЂР°РЅРёС†Рµ) */
+.select-narrow {
+  width: 80px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .students-list-header {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .students-controls {
+    width: 100%;
+  }
+  
+  .input {
+    flex: 1;
+    min-width: 0;
+  }
+  
+  .student-card-header {
+    flex-wrap: wrap;
+    gap: var(--spacing-sm);
+  }
+  
+  .student-card-menu {
+    right: var(--spacing-xs);
+  }
+}

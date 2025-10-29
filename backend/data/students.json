@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Елена Даниловна Архипова",
+    "studentId": 1759951896613,
+    "grade": 10,
+    "gradeLetter": "Т",
+    "cardId": "1dbfc687"
+  },
+  {
+    "name": "Смирнова Агафья Натановна",
+    "studentId": 1759951896614,
+    "grade": 11,
+    "gradeLetter": "Р",
+    "cardId": "b0f5c6a4"
+  },
+  {
+    "name": "Екатерина Георгиевна Комиссарова",
+    "studentId": 1759951896615,
+    "grade": 9,
+    "gradeLetter": "Р",
+    "cardId": "f32bdd7f"
+  },
+  {
+    "name": "Поляков Станимир Данилович",
+    "studentId": 1759951896616,
+    "grade": 8,
+    "gradeLetter": "В",
+    "cardId": "ddb4d178"
+  },
+  {
+    "name": "Власова Марфа Федоровна",
+    "studentId": 1759951896617,
+    "grade": 8,
+    "gradeLetter": "С",
+    "cardId": "b6c55b90"
+  },
+  {
+    "name": "Таисия Сергеевна Сидорова",
+    "studentId": 1759951896618,
+    "grade": 10,
+    "gradeLetter": "З",
+    "cardId": "bae3fbae"
+  },
+  {
+    "name": "тов. Моисеева Нина Архиповна",
+    "studentId": 1759951896619,
+    "grade": 9,
+    "gradeLetter": "П",
+    "cardId": "ebedcbef"
+  },
+  {
+    "name": "Романов Лонгин Артурович",
+    "studentId": 1759951896620,
+    "grade": 9,
+    "gradeLetter": "Т",
+    "cardId": "ead6e60a"
+  },
+  {
+    "name": "Ян Трифонович Аксенов",
+    "studentId": 1759951896621,
+    "grade": 11,
+    "gradeLetter": "Г",
+    "cardId": "fcce4958"
+  },
+  {
+    "name": "Алина Рудольфовна Кириллова",
+    "studentId": 1759951896622,
+    "grade": 8,
+    "gradeLetter": "В",
+    "cardId": "ec7eaccf"
+  },
+  {
+    "name": "Евфросиния Святославовна Бирюкова",
+    "studentId": 1759951896623,
+    "grade": 10,
+    "gradeLetter": "Р",
+    "cardId": "b41f4e1c"
+  },
+  {
+    "name": "Горбачева Полина Вадимовна",
+    "studentId": 1759951896624,
+    "grade": 10,
+    "gradeLetter": "Ж",
+    "cardId": "3b6f89cc"
+  },
+  {
+    "name": "Суханова Валерия Ильинична",
+    "studentId": 1759951896625,
+    "grade": 8,
+    "gradeLetter": "Д",
+    "cardId": "5ab6f8ca"
+  },
+  {
+    "name": "Марков Константин Гордеевич",
+    "studentId": 1759951896626,
+    "grade": 8,
+    "gradeLetter": "И",
+    "cardId": "3eef7d0e"
+  },
+  {
+    "name": "Мечислав Иосипович Дементьев",
+    "studentId": 1759951896627,
+    "grade": 8,
+    "gradeLetter": "М",
+    "cardId": "29fa5de9"
+  },
+  {
+    "name": "Лукина Виктория Эльдаровна",
+    "studentId": 1759951896628,
+    "grade": 9,
+    "gradeLetter": "Г",
+    "cardId": "f59d41c8"
+  },
+  {
+    "name": "Венедикт Антипович Евдокимов",
+    "studentId": 1759951896629,
+    "grade": 10,
+    "gradeLetter": "Р",
+    "cardId": "cda5bdfb"
+  },
+  {
+    "name": "Ирина Ниловна Доронина",
+    "studentId": 1759951896630,
+    "grade": 9,
+    "gradeLetter": "П",
+    "cardId": "96fc89f7"
+  },
+  {
+    "name": "Бирюков Изяслав Бориславович",
+    "studentId": 1759951896631,
+    "grade": 9,
+    "gradeLetter": "Р",
+    "cardId": "cfd06eda"
+  },
+  {
+    "name": "Одинцова Агафья Филипповна",
+    "studentId": 1759951896632,
+    "grade": 11,
+    "gradeLetter": "О",
+    "cardId": "e54dcde7"
+  },
+  {
+    "name": "Фортунат Валентинович Шаров",
+    "studentId": 1759951896633,
+    "grade": 8,
+    "gradeLetter": "Т",
+    "cardId": "f5ce8ece"
+  },
+  {
+    "name": "Евдокимова Акулина Афанасьевна",
+    "studentId": 1759951896634,
+    "grade": 10,
+    "gradeLetter": "З",
+    "cardId": "7be1b92c"
+  },
+  {
+    "name": "Дмитриева Евгения Рудольфовна",
+    "studentId": 1759951896635,
+    "grade": 9,
+    "gradeLetter": "Ж",
+    "cardId": "b4d1073c"
+  },
+  {
+    "name": "Полина Михайловна Некрасова",
+    "studentId": 1759951896636,
+    "grade": 9,
+    "gradeLetter": "С",
+    "cardId": "66c32323"
+  },
+  {
+    "name": "Глеб Валентинович Игнатьев",
+    "studentId": 1759951896637,
+    "grade": 10,
+    "gradeLetter": "Ж",
+    "cardId": "1835b8cf"
+  },
+  {
+    "name": "Кудряшов Эдуард Фадеевич",
+    "studentId": 1759951896638,
+    "grade": 10,
+    "gradeLetter": "К",
+    "cardId": "fa4aab69"
+  },
+  {
+    "name": "Елена Мироновна Тетерина",
+    "studentId": 1759951896639,
+    "grade": 10,
+    "gradeLetter": "З",
+    "cardId": "12fc3ae5"
+  },
+  {
+    "name": "Гурьев Ерофей Марсович",
+    "studentId": 1759951896640,
+    "grade": 10,
+    "gradeLetter": "В",
+    "cardId": "bbae4c46"
+  },
+  {
+    "name": "Нифонт Тихонович Семенов",
+    "studentId": 1759951896641,
+    "grade": 8,
+    "gradeLetter": "Г",
+    "cardId": "dec9bfcd"
+  },
+  {
+    "name": "Авдеев Роман Ааронович",
+    "studentId": 1759951896642,
+    "grade": 11,
+    "gradeLetter": "Р",
+    "cardId": "ce6ebde3"
+  },
+  {
+    "name": "Майя Эльдаровна Рожкова",
+    "studentId": 1759951896643,
+    "grade": 10,
+    "gradeLetter": "Д",
+    "cardId": "057ae1ee"
+  },
+  {
+    "name": "Николаева Оксана Тарасовна",
+    "studentId": 1759951896644,
+    "grade": 11,
+    "gradeLetter": "З",
+    "cardId": "6a6d303d"
+  },
+  {
+    "name": "Сергей Игнатович Антонов",
+    "studentId": 1759951896645,
+    "grade": 9,
+    "gradeLetter": "Ф",
+    "cardId": "edb1bd59"
+  },
+  {
+    "name": "Прасковья Игоревна Лебедева",
+    "studentId": 1759951896646,
+    "grade": 9,
+    "gradeLetter": "Б",
+    "cardId": "7c8950dc"
+  },
+  {
+    "name": "Панова Маргарита Макаровна",
+    "studentId": 1759951896647,
+    "grade": 9,
+    "gradeLetter": "Г",
+    "cardId": "496da830"
+  },
+  {
+    "name": "Корнилов Елизар Демьянович",
+    "studentId": 1759951896648,
+    "grade": 8,
+    "gradeLetter": "О",
+    "cardId": "10d47e4a"
+  },
+  {
+    "name": "Евдокимова Ия Петровна",
+    "studentId": 1759951896649,
+    "grade": 9,
+    "gradeLetter": "Е",
+    "cardId": "65cec4ea"
+  },
+  {
+    "name": "Вероника Юрьевна Попова",
+    "studentId": 1759951896650,
+    "grade": 8,
+    "gradeLetter": "Л",
+    "cardId": "caef7faa"
+  },
+  {
+    "name": "Любовь Федоровна Морозова",
+    "studentId": 1759951896651,
+    "grade": 10,
+    "gradeLetter": "З",
+    "cardId": "1123c6e3"
+  },
+  {
+    "name": "Рябов Тихон Дмитриевич",
+    "studentId": 1759951896652,
+    "grade": 10,
+    "gradeLetter": "О",
+    "cardId": "bcfeecde"
+  },
+  {
+    "name": "Петухова Алла Артемовна",
+    "studentId": 1759951896653,
+    "grade": 10,
+    "gradeLetter": "Д",
+    "cardId": "a2c737ee"
+  },
+  {
+    "name": "Валерия Руслановна Маслова",
+    "studentId": 1759951896654,
+    "grade": 8,
+    "gradeLetter": "Н",
+    "cardId": "4b1cc0e9"
+  },
+  {
+    "name": "София Валентиновна Киселева",
+    "studentId": 1759951896655,
+    "grade": 8,
+    "gradeLetter": "З",
+    "cardId": "d5c9a0f6"
+  },
+  {
+    "name": "Агата Болеславовна Пономарева",
+    "studentId": 1759951896656,
+    "grade": 10,
+    "gradeLetter": "Р",
+    "cardId": "1624b162"
+  },
+  {
+    "name": "Таисия Федоровна Капустина",
+    "studentId": 1759951896657,
+    "grade": 8,
+    "gradeLetter": "З",
+    "cardId": "9aaa7f2e"
+  },
+  {
+    "name": "Ефимова Зинаида Федоровна",
+    "studentId": 1759951896658,
+    "grade": 10,
+    "gradeLetter": "Ф",
+    "cardId": "df14a72a"
+  },
+  {
+    "name": "Кирилл Харлампьевич Исаев",
+    "studentId": 1759951896659,
+    "grade": 8,
+    "gradeLetter": "В",
+    "cardId": "3edd91e0"
+  },
+  {
+    "name": "Жуков Мстислав Якубович",
+    "studentId": 1759951896660,
+    "grade": 10,
+    "gradeLetter": "Р",
+    "cardId": "bda387ba"
+  },
+  {
+    "name": "Лора Алексеевна Калинина",
+    "studentId": 1759951896661,
+    "grade": 11,
+    "gradeLetter": "М",
+    "cardId": "96eb356c"
+  },
+  {
+    "name": "Клавдий Ермолаевич Нестеров",
+    "studentId": 1759951896662,
+    "grade": 9,
+    "gradeLetter": "Е",
+    "cardId": "2f4dd51b"
+  },
+  {
+    "name": "г-жа Лазарева Тамара Георгиевна",
+    "studentId": 1759951896663,
+    "grade": 8,
+    "gradeLetter": "М",
+    "cardId": "b8ac4c5b"
+  },
+  {
+    "name": "Григорьева Зоя Харитоновна",
+    "studentId": 1759951896664,
+    "grade": 11,
+    "gradeLetter": "З",
+    "cardId": "951f2cd5"
+  },
+  {
+    "name": "София Владиславовна Денисова",
+    "studentId": 1759951896665,
+    "grade": 11,
+    "gradeLetter": "О",
+    "cardId": "d8cca79d"
+  },
+  {
+    "name": "Мстислав Иосифович Романов",
+    "studentId": 1759951896666,
+    "grade": 11,
+    "gradeLetter": "С",
+    "cardId": "e024dabe"
+  },
+  {
+    "name": "Беспалов Чеслав Ильясович",
+    "studentId": 1759951896667,
+    "grade": 11,
+    "gradeLetter": "О",
+    "cardId": "ad69ed2f"
+  },
+  {
+    "name": "Прокофий Эдуардович Ефимов",
+    "studentId": 1759951896668,
+    "grade": 10,
+    "gradeLetter": "К",
+    "cardId": "efaab957"
+  },
+  {
+    "name": "Варфоломей Харлампьевич Аксенов",
+    "studentId": 1759951896669,
+    "grade": 8,
+    "gradeLetter": "В",
+    "cardId": "d33ac8ee"
+  },
+  {
+    "name": "Флорентин Даниилович Доронин",
+    "studentId": 1759951896670,
+    "grade": 8,
+    "gradeLetter": "З",
+    "cardId": "dbe4849f"
+  },
+  {
+    "name": "Казимир Авдеевич Харитонов",
+    "studentId": 1759951896671,
+    "grade": 11,
+    "gradeLetter": "Ж",
+    "cardId": "a8aa9dfa"
+  },
+  {
+    "name": "Борислав Викторович Григорьев",
+    "studentId": 1759951896672,
+    "grade": 10,
+    "gradeLetter": "Л",
+    "cardId": "1abcff5d"
+  },
+  {
+    "name": "Силина Агафья Яковлевна",
+    "studentId": 1759951896673,
+    "grade": 11,
+    "gradeLetter": "З",
+    "cardId": "addaf18c"
+  },
+  {
+    "name": "Илья Зиновьевич Жуков",
+    "studentId": 1759951896674,
+    "grade": 8,
+    "gradeLetter": "С",
+    "cardId": "8c1fede7"
+  },
+  {
+    "name": "Соболев Фортунат Ефремович",
+    "studentId": 1759951896675,
+    "grade": 10,
+    "gradeLetter": "А",
+    "cardId": "776b5a30"
+  },
+  {
+    "name": "Юдина Октябрина Валентиновна",
+    "studentId": 1759951896676,
+    "grade": 9,
+    "gradeLetter": "Т",
+    "cardId": "54bb95e3"
+  },
+  {
+    "name": "Носов Твердислав Антипович",
+    "studentId": 1759951896677,
+    "grade": 9,
+    "gradeLetter": "В",
+    "cardId": "f39dadb5"
+  },
+  {
+    "name": "Лавр Данилович Фролов",
+    "studentId": 1759951896678,
+    "grade": 10,
+    "gradeLetter": "Б",
+    "cardId": "9d1adbef"
+  },
+  {
+    "name": "Калинин Эмиль Гордеевич",
+    "studentId": 1759951896679,
+    "grade": 9,
+    "gradeLetter": "В",
+    "cardId": "5ff173b0"
+  },
+  {
+    "name": "Феврония Эльдаровна Тетерина",
+    "studentId": 1759951896680,
+    "grade": 9,
+    "gradeLetter": "В",
+    "cardId": "bea5d5e6"
+  },
+  {
+    "name": "Волков Герасим Еремеевич",
+    "studentId": 1759951896681,
+    "grade": 11,
+    "gradeLetter": "Г",
+    "cardId": "01d05d28"
+  },
+  {
+    "name": "Петров Геннадий Демьянович",
+    "studentId": 1759951896682,
+    "grade": 10,
+    "gradeLetter": "П",
+    "cardId": "0b0b5a6a"
+  },
+  {
+    "name": "Захаров Галактион Абрамович",
+    "studentId": 1759951896683,
+    "grade": 11,
+    "gradeLetter": "Л",
+    "cardId": "05ceaaba"
+  },
+  {
+    "name": "Кузьмин Варфоломей Эдгардович",
+    "studentId": 1759951896684,
+    "grade": 11,
+    "gradeLetter": "О",
+    "cardId": "ea0ecdfe"
+  },
+  {
+    "name": "Богданов Матвей Трофимович",
+    "studentId": 1759951896685,
+    "grade": 11,
+    "gradeLetter": "П",
+    "cardId": "fab160a5"
+  },
+  {
+    "name": "Демид Яковлевич Большаков",
+    "studentId": 1759951896686,
+    "grade": 10,
+    "gradeLetter": "С",
+    "cardId": "3ea848b0"
+  },
+  {
+    "name": "Вишняков Владилен Иосипович",
+    "studentId": 1759951896687,
+    "grade": 9,
+    "gradeLetter": "Б",
+    "cardId": "1dce36fb"
+  },
+  {
+    "name": "Любовь Станиславовна Власова",
+    "studentId": 1759951896688,
+    "grade": 9,
+    "gradeLetter": "В",
+    "cardId": "0f6ca804"
+  },
+  {
+    "name": "Сазонова Евфросиния Михайловна",
+    "studentId": 1759951896689,
+    "grade": 8,
+    "gradeLetter": "Ж",
+    "cardId": "eabfdbe7"
+  },
+  {
+    "name": "Ермолай Матвеевич Савельев",
+    "studentId": 1759951896690,
+    "grade": 10,
+    "gradeLetter": "Д",
+    "cardId": "3daf0eac"
+  },
+  {
+    "name": "Ростислав Фадеевич Григорьев",
+    "studentId": 1759951896691,
+    "grade": 11,
+    "gradeLetter": "А",
+    "cardId": "1d413603"
+  },
+  {
+    "name": "Воробьев Авдей Федосьевич",
+    "studentId": 1759951896692,
+    "grade": 9,
+    "gradeLetter": "С",
+    "cardId": "b60bcc9a"
+  },
+  {
+    "name": "Носков Кузьма Феодосьевич",
+    "studentId": 1759951896693,
+    "grade": 10,
+    "gradeLetter": "М",
+    "cardId": "b0d0bf0a"
+  },
+  {
+    "name": "Архипов Аверкий Данилович",
+    "studentId": 1759951896694,
+    "grade": 11,
+    "gradeLetter": "М",
+    "cardId": "fafaa233"
+  },
+  {
+    "name": "Лихачева Антонина Вениаминовна",
+    "studentId": 1759951896695,
+    "grade": 11,
+    "gradeLetter": "Д",
+    "cardId": "bbceea3d"
+  },
+  {
+    "name": "Никодим Викторович Лукин",
+    "studentId": 1759951896696,
+    "grade": 10,
+    "gradeLetter": "К",
+    "cardId": "461f53b0"
+  },
+  {
+    "name": "Лариса Константиновна Воронова",
+    "studentId": 1759951896697,
+    "grade": 11,
+    "gradeLetter": "А",
+    "cardId": "a6ec9b93"
+  },
+  {
+    "name": "Данилов Виктор Валерианович",
+    "studentId": 1759951896698,
+    "grade": 8,
+    "gradeLetter": "Н",
+    "cardId": "b5faaaaf"
+  },
+  {
+    "name": "Гришина Октябрина Григорьевна",
+    "studentId": 1759951896699,
+    "grade": 9,
+    "gradeLetter": "А",
+    "cardId": "6b9ab669"
+  },
+  {
+    "name": "Герасимов Иннокентий Теймуразович",
+    "studentId": 1759951896700,
+    "grade": 11,
+    "gradeLetter": "Е",
+    "cardId": "c2d008ef"
+  },
+  {
+    "name": "тов. Чернов Трифон Гурьевич",
+    "studentId": 1759951896701,
+    "grade": 10,
+    "gradeLetter": "З",
+    "cardId": "c2594ef4"
+  },
+  {
+    "name": "Синклитикия Аскольдовна Одинцова",
+    "studentId": 1759951896702,
+    "grade": 8,
+    "gradeLetter": "Т",
+    "cardId": "b65c68b4"
+  },
+  {
+    "name": "Иванна Леоновна Иванова",
+    "studentId": 1759951896703,
+    "grade": 8,
+    "gradeLetter": "С",
+    "cardId": "fb3c56ff"
+  },
+  {
+    "name": "Белякова Варвара Сергеевна",
+    "studentId": 1759951896704,
+    "grade": 9,
+    "gradeLetter": "В",
+    "cardId": "0c3d0ee0"
+  },
+  {
+    "name": "Гурьева Милица Архиповна",
+    "studentId": 1759951896705,
+    "grade": 9,
+    "gradeLetter": "Ж",
+    "cardId": "f9e2fb27"
+  },
+  {
+    "name": "Павлова Анжела Владимировна",
+    "studentId": 1759951896706,
+    "grade": 11,
+    "gradeLetter": "В",
+    "cardId": "6fee85cb"
+  },
+  {
+    "name": "Быкова Эмилия Семеновна",
+    "studentId": 1759951896707,
+    "grade": 11,
+    "gradeLetter": "Ж",
+    "cardId": "68d63faa"
+  },
+  {
+    "name": "Екатерина Леонидовна Афанасьева",
+    "studentId": 1759951896708,
+    "grade": 10,
+    "gradeLetter": "Н",
+    "cardId": "cef5f960"
+  },
+  {
+    "name": "Щукин Лаврентий Еремеевич",
+    "studentId": 1759951896709,
+    "grade": 10,
+    "gradeLetter": "Б",
+    "cardId": "652377e9"
+  },
+  {
+    "name": "Гусев Лаврентий Вячеславович",
+    "studentId": 1759951896710,
+    "grade": 11,
+    "gradeLetter": "З",
+    "cardId": "17cbb182"
+  },
+  {
+    "name": "Мирон Ефремович Исаев",
+    "studentId": 1759951896711,
+    "grade": 10,
+    "gradeLetter": "Г",
+    "cardId": "5c605fbf"
+  },
+  {
+    "name": "Филипп Теймуразович Ларионов",
+    "studentId": 1759951896712,
+    "grade": 10,
+    "gradeLetter": "П",
+    "cardId": "f71ecadb"
+  }
+]

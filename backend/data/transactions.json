@@ -1,0 +1,731 @@
+[
+  {
+    "id": 1759925621630,
+    "studentId": 1759951896693,
+    "bookId": 69,
+    "action": "returned",
+    "date": "2025-10-05"
+  },
+  {
+    "id": 1759925621631,
+    "studentId": 1759951896698,
+    "bookId": 93,
+    "action": "taken",
+    "date": "2025-12-06"
+  },
+  {
+    "id": 1759925621632,
+    "studentId": 1759951896634,
+    "bookId": 56,
+    "action": "returned",
+    "date": "2025-09-13"
+  },
+  {
+    "id": 1759925621633,
+    "studentId": 1759951896634,
+    "bookId": 24,
+    "action": "taken",
+    "date": "2025-11-24"
+  },
+  {
+    "id": 1759925621634,
+    "studentId": 1759951896682,
+    "bookId": 39,
+    "action": "taken",
+    "date": "2025-07-12"
+  },
+  {
+    "id": 1759925621635,
+    "studentId": 1759951896635,
+    "bookId": 55,
+    "action": "taken",
+    "date": "2025-12-17"
+  },
+  {
+    "id": 1759925621636,
+    "studentId": 1759951896686,
+    "bookId": 29,
+    "action": "taken",
+    "date": "2025-10-28"
+  },
+  {
+    "id": 1759925621637,
+    "studentId": 1759951896699,
+    "bookId": 68,
+    "action": "returned",
+    "date": "2025-12-15"
+  },
+  {
+    "id": 1759925621638,
+    "studentId": 1759951896626,
+    "bookId": 49,
+    "action": "taken",
+    "date": "2025-08-19"
+  },
+  {
+    "id": 1759925621639,
+    "studentId": 1759951896709,
+    "bookId": 1,
+    "action": "taken",
+    "date": "2025-01-18"
+  },
+  {
+    "id": 1759925621640,
+    "studentId": 1759951896695,
+    "bookId": 74,
+    "action": "returned",
+    "date": "2025-03-21"
+  },
+  {
+    "id": 1759925621641,
+    "studentId": 1759951896667,
+    "bookId": 74,
+    "action": "taken",
+    "date": "2025-03-24"
+  },
+  {
+    "id": 1759925621642,
+    "studentId": 1759951896650,
+    "bookId": 31,
+    "action": "taken",
+    "date": "2025-11-17"
+  },
+  {
+    "id": 1759925621643,
+    "studentId": 1759951896653,
+    "bookId": 64,
+    "action": "returned",
+    "date": "2025-06-04"
+  },
+  {
+    "id": 1759925621644,
+    "studentId": 1759951896691,
+    "bookId": 74,
+    "action": "returned",
+    "date": "2025-05-24"
+  },
+  {
+    "id": 1759925621645,
+    "studentId": 1759951896627,
+    "bookId": 36,
+    "action": "taken",
+    "date": "2025-11-16"
+  },
+  {
+    "id": 1759925621646,
+    "studentId": 1759951896665,
+    "bookId": 74,
+    "action": "taken",
+    "date": "2025-02-23"
+  },
+  {
+    "id": 1759925621647,
+    "studentId": 1759951896712,
+    "bookId": 70,
+    "action": "returned",
+    "date": "2025-11-17"
+  },
+  {
+    "id": 1759925621648,
+    "studentId": 1759951896665,
+    "bookId": 96,
+    "action": "taken",
+    "date": "2025-05-31"
+  },
+  {
+    "id": 1759925621649,
+    "studentId": 1759951896652,
+    "bookId": 95,
+    "action": "taken",
+    "date": "2025-06-17"
+  },
+  {
+    "id": 1759925621650,
+    "studentId": 1759951896657,
+    "bookId": 79,
+    "action": "taken",
+    "date": "2025-12-04"
+  },
+  {
+    "id": 1759925621651,
+    "studentId": 1759951896695,
+    "bookId": 4,
+    "action": "returned",
+    "date": "2025-05-29"
+  },
+  {
+    "id": 1759925621652,
+    "studentId": 1759951896661,
+    "bookId": 80,
+    "action": "returned",
+    "date": "2025-06-13"
+  },
+  {
+    "id": 1759925621653,
+    "studentId": 1759951896615,
+    "bookId": 89,
+    "action": "taken",
+    "date": "2025-10-23"
+  },
+  {
+    "id": 1759925621654,
+    "studentId": 1759951896678,
+    "bookId": 26,
+    "action": "taken",
+    "date": "2025-09-13"
+  },
+  {
+    "id": 1759925621655,
+    "studentId": 1759951896704,
+    "bookId": 45,
+    "action": "returned",
+    "date": "2025-02-03"
+  },
+  {
+    "id": 1759925621656,
+    "studentId": 1759951896637,
+    "bookId": 92,
+    "action": "returned",
+    "date": "2025-05-25"
+  },
+  {
+    "id": 1759925621657,
+    "studentId": 1759951896630,
+    "bookId": 39,
+    "action": "returned",
+    "date": "2025-01-04"
+  },
+  {
+    "id": 1759925621658,
+    "studentId": 1759951896703,
+    "bookId": 25,
+    "action": "returned",
+    "date": "2025-05-16"
+  },
+  {
+    "id": 1759925621659,
+    "studentId": 1759951896645,
+    "bookId": 70,
+    "action": "taken",
+    "date": "2025-02-03"
+  },
+  {
+    "id": 1759925621660,
+    "studentId": 1759951896682,
+    "bookId": 64,
+    "action": "returned",
+    "date": "2025-05-31"
+  },
+  {
+    "id": 1759925621661,
+    "studentId": 1759951896706,
+    "bookId": 76,
+    "action": "taken",
+    "date": "2025-08-09"
+  },
+  {
+    "id": 1759925621662,
+    "studentId": 1759951896684,
+    "bookId": 6,
+    "action": "returned",
+    "date": "2025-04-17"
+  },
+  {
+    "id": 1759925621663,
+    "studentId": 1759951896623,
+    "bookId": 78,
+    "action": "taken",
+    "date": "2025-04-05"
+  },
+  {
+    "id": 1759925621664,
+    "studentId": 1759951896660,
+    "bookId": 49,
+    "action": "taken",
+    "date": "2025-06-07"
+  },
+  {
+    "id": 1759925621665,
+    "studentId": 1759951896617,
+    "bookId": 35,
+    "action": "returned",
+    "date": "2025-08-18"
+  },
+  {
+    "id": 1759925621666,
+    "studentId": 1759951896616,
+    "bookId": 54,
+    "action": "taken",
+    "date": "2025-04-16"
+  },
+  {
+    "id": 1759925621667,
+    "studentId": 1759951896711,
+    "bookId": 1,
+    "action": "returned",
+    "date": "2025-09-21"
+  },
+  {
+    "id": 1759925621668,
+    "studentId": 1759951896642,
+    "bookId": 27,
+    "action": "taken",
+    "date": "2025-11-02"
+  },
+  {
+    "id": 1759925621669,
+    "studentId": 1759951896648,
+    "bookId": 78,
+    "action": "taken",
+    "date": "2025-07-01"
+  },
+  {
+    "id": 1759925621670,
+    "studentId": 1759951896666,
+    "bookId": 72,
+    "action": "returned",
+    "date": "2025-02-05"
+  },
+  {
+    "id": 1759925621671,
+    "studentId": 1759951896620,
+    "bookId": 72,
+    "action": "returned",
+    "date": "2025-04-22"
+  },
+  {
+    "id": 1759925621672,
+    "studentId": 1759951896614,
+    "bookId": 9,
+    "action": "returned",
+    "date": "2025-10-23"
+  },
+  {
+    "id": 1759925621673,
+    "studentId": 1759951896681,
+    "bookId": 33,
+    "action": "taken",
+    "date": "2025-11-07"
+  },
+  {
+    "id": 1759925621674,
+    "studentId": 1759951896697,
+    "bookId": 89,
+    "action": "taken",
+    "date": "2025-07-03"
+  },
+  {
+    "id": 1759925621675,
+    "studentId": 1759951896622,
+    "bookId": 57,
+    "action": "returned",
+    "date": "2025-03-01"
+  },
+  {
+    "id": 1759925621676,
+    "studentId": 1759951896659,
+    "bookId": 60,
+    "action": "returned",
+    "date": "2025-01-16"
+  },
+  {
+    "id": 1759925621677,
+    "studentId": 1759951896637,
+    "bookId": 24,
+    "action": "taken",
+    "date": "2025-04-13"
+  },
+  {
+    "id": 1759925621678,
+    "studentId": 1759951896620,
+    "bookId": 54,
+    "action": "returned",
+    "date": "2025-06-02"
+  },
+  {
+    "id": 1759925621679,
+    "studentId": 1759951896670,
+    "bookId": 52,
+    "action": "taken",
+    "date": "2025-07-07"
+  },
+  {
+    "id": 1759925621680,
+    "studentId": 1759951896665,
+    "bookId": 42,
+    "action": "returned",
+    "date": "2025-07-27"
+  },
+  {
+    "id": 1759925621681,
+    "studentId": 1759951896666,
+    "bookId": 46,
+    "action": "taken",
+    "date": "2025-05-11"
+  },
+  {
+    "id": 1759925621682,
+    "studentId": 1759951896645,
+    "bookId": 6,
+    "action": "taken",
+    "date": "2025-06-08"
+  },
+  {
+    "id": 1759925621683,
+    "studentId": 1759951896665,
+    "bookId": 35,
+    "action": "returned",
+    "date": "2025-12-28"
+  },
+  {
+    "id": 1759925621684,
+    "studentId": 1759951896709,
+    "bookId": 65,
+    "action": "taken",
+    "date": "2025-02-22"
+  },
+  {
+    "id": 1759925621685,
+    "studentId": 1759951896694,
+    "bookId": 17,
+    "action": "taken",
+    "date": "2025-01-22"
+  },
+  {
+    "id": 1759925621686,
+    "studentId": 1759951896675,
+    "bookId": 24,
+    "action": "taken",
+    "date": "2025-08-18"
+  },
+  {
+    "id": 1759925621687,
+    "studentId": 1759951896655,
+    "bookId": 85,
+    "action": "returned",
+    "date": "2025-10-13"
+  },
+  {
+    "id": 1759925621688,
+    "studentId": 1759951896709,
+    "bookId": 89,
+    "action": "returned",
+    "date": "2025-06-14"
+  },
+  {
+    "id": 1759925621689,
+    "studentId": 1759951896667,
+    "bookId": 12,
+    "action": "returned",
+    "date": "2025-07-23"
+  },
+  {
+    "id": 1759925621690,
+    "studentId": 1759951896657,
+    "bookId": 10,
+    "action": "returned",
+    "date": "2025-06-21"
+  },
+  {
+    "id": 1759925621691,
+    "studentId": 1759951896633,
+    "bookId": 7,
+    "action": "taken",
+    "date": "2025-12-08"
+  },
+  {
+    "id": 1759925621692,
+    "studentId": 1759951896710,
+    "bookId": 37,
+    "action": "returned",
+    "date": "2025-09-23"
+  },
+  {
+    "id": 1759925621693,
+    "studentId": 1759951896652,
+    "bookId": 96,
+    "action": "returned",
+    "date": "2025-04-05"
+  },
+  {
+    "id": 1759925621694,
+    "studentId": 1759951896686,
+    "bookId": 63,
+    "action": "taken",
+    "date": "2025-02-22"
+  },
+  {
+    "id": 1759925621695,
+    "studentId": 1759951896670,
+    "bookId": 16,
+    "action": "returned",
+    "date": "2025-02-13"
+  },
+  {
+    "id": 1759925621696,
+    "studentId": 1759951896632,
+    "bookId": 46,
+    "action": "returned",
+    "date": "2025-09-16"
+  },
+  {
+    "id": 1759925621697,
+    "studentId": 1759951896684,
+    "bookId": 64,
+    "action": "taken",
+    "date": "2025-08-11"
+  },
+  {
+    "id": 1759925621698,
+    "studentId": 1759951896666,
+    "bookId": 64,
+    "action": "returned",
+    "date": "2025-07-04"
+  },
+  {
+    "id": 1759925621699,
+    "studentId": 1759951896677,
+    "bookId": 32,
+    "action": "returned",
+    "date": "2025-03-15"
+  },
+  {
+    "id": 1759925621700,
+    "studentId": 1759951896650,
+    "bookId": 11,
+    "action": "taken",
+    "date": "2025-03-05"
+  },
+  {
+    "id": 1759925621701,
+    "studentId": 1759951896642,
+    "bookId": 37,
+    "action": "taken",
+    "date": "2025-01-30"
+  },
+  {
+    "id": 1759925621702,
+    "studentId": 1759951896647,
+    "bookId": 14,
+    "action": "returned",
+    "date": "2025-09-29"
+  },
+  {
+    "id": 1759925621703,
+    "studentId": 1759951896684,
+    "bookId": 59,
+    "action": "taken",
+    "date": "2025-03-28"
+  },
+  {
+    "id": 1759925621704,
+    "studentId": 1759951896712,
+    "bookId": 68,
+    "action": "returned",
+    "date": "2025-05-27"
+  },
+  {
+    "id": 1759925621705,
+    "studentId": 1759951896674,
+    "bookId": 78,
+    "action": "returned",
+    "date": "2025-08-06"
+  },
+  {
+    "id": 1759925621706,
+    "studentId": 1759951896664,
+    "bookId": 100,
+    "action": "taken",
+    "date": "2025-03-26"
+  },
+  {
+    "id": 1759925621707,
+    "studentId": 1759951896623,
+    "bookId": 6,
+    "action": "returned",
+    "date": "2025-03-28"
+  },
+  {
+    "id": 1759925621708,
+    "studentId": 1759951896665,
+    "bookId": 22,
+    "action": "taken",
+    "date": "2025-07-11"
+  },
+  {
+    "id": 1759925621709,
+    "studentId": 1759951896641,
+    "bookId": 97,
+    "action": "returned",
+    "date": "2025-10-25"
+  },
+  {
+    "id": 1759925621710,
+    "studentId": 1759951896668,
+    "bookId": 41,
+    "action": "returned",
+    "date": "2025-09-09"
+  },
+  {
+    "id": 1759925621711,
+    "studentId": 1759951896703,
+    "bookId": 53,
+    "action": "returned",
+    "date": "2025-02-03"
+  },
+  {
+    "id": 1759925621712,
+    "studentId": 1759951896686,
+    "bookId": 38,
+    "action": "taken",
+    "date": "2025-04-04"
+  },
+  {
+    "id": 1759925621713,
+    "studentId": 1759951896640,
+    "bookId": 20,
+    "action": "taken",
+    "date": "2025-06-15"
+  },
+  {
+    "id": 1759925621714,
+    "studentId": 1759951896660,
+    "bookId": 60,
+    "action": "returned",
+    "date": "2025-11-25"
+  },
+  {
+    "id": 1759925621715,
+    "studentId": 1759951896704,
+    "bookId": 1,
+    "action": "returned",
+    "date": "2025-08-29"
+  },
+  {
+    "id": 1759925621716,
+    "studentId": 1759951896643,
+    "bookId": 58,
+    "action": "taken",
+    "date": "2025-05-04"
+  },
+  {
+    "id": 1759925621717,
+    "studentId": 1759951896703,
+    "bookId": 4,
+    "action": "returned",
+    "date": "2025-06-23"
+  },
+  {
+    "id": 1759925621718,
+    "studentId": 1759951896622,
+    "bookId": 51,
+    "action": "taken",
+    "date": "2025-11-24"
+  },
+  {
+    "id": 1759925621719,
+    "studentId": 1759951896627,
+    "bookId": 34,
+    "action": "taken",
+    "date": "2025-11-12"
+  },
+  {
+    "id": 1759925621720,
+    "studentId": 1759951896622,
+    "bookId": 82,
+    "action": "returned",
+    "date": "2025-08-21"
+  },
+  {
+    "id": 1759925621721,
+    "studentId": 1759951896647,
+    "bookId": 35,
+    "action": "returned",
+    "date": "2025-09-09"
+  },
+  {
+    "id": 1759925621722,
+    "studentId": 1759951896626,
+    "bookId": 68,
+    "action": "taken",
+    "date": "2025-07-22"
+  },
+  {
+    "id": 1759925621723,
+    "studentId": 1759951896656,
+    "bookId": 95,
+    "action": "taken",
+    "date": "2025-01-07"
+  },
+  {
+    "id": 1759925621724,
+    "studentId": 1759951896680,
+    "bookId": 72,
+    "action": "returned",
+    "date": "2025-07-23"
+  },
+  {
+    "id": 1759925621725,
+    "studentId": 1759951896637,
+    "bookId": 42,
+    "action": "taken",
+    "date": "2025-12-11"
+  },
+  {
+    "id": 1759925621726,
+    "studentId": 1759951896669,
+    "bookId": 74,
+    "action": "returned",
+    "date": "2025-09-01"
+  },
+  {
+    "id": 1759925621727,
+    "studentId": 1759951896712,
+    "bookId": 74,
+    "action": "returned",
+    "date": "2025-10-13"
+  },
+  {
+    "id": 1759925621728,
+    "studentId": 1759951896655,
+    "bookId": 75,
+    "action": "taken",
+    "date": "2025-07-03"
+  },
+  {
+    "id": 1759925621729,
+    "studentId": 1759951896696,
+    "bookId": 41,
+    "action": "returned",
+    "date": "2025-08-29"
+  },
+  {
+    "id": 1759952469499,
+    "studentId": 1759951896621,
+    "bookId": 1,
+    "action": "taken",
+    "date": "2025-11-09"
+  },
+  {
+    "id": 1759952475032,
+    "studentId": 1759951896617,
+    "bookId": 1,
+    "action": "taken",
+    "date": "2025-11-09"
+  },
+  {
+    "id": 1760134667397,
+    "studentId": 1759951896614,
+    "bookId": 1,
+    "action": "taken",
+    "date": "2025-10-26"
+  },
+  {
+    "id": 1760134670863,
+    "studentId": 1759951896656,
+    "bookId": 95,
+    "action": "returned",
+    "date": "2025-10-10",
+    "warn": true
+  }
+]

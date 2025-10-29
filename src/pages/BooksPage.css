@@ -1,0 +1,193 @@
+/* ========================================
+   BOOKS PAGE - карточка каталога книг
+   Дополнительные стили компонуются с common.css
+   ======================================== */
+
+.books-page {
+  padding: var(--spacing-xl) 0;
+}
+
+.book-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Шапка карточки и меню действий */
+.book-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--spacing-sm);
+  margin-bottom: var(--spacing-md);
+}
+
+.book-card-header-main {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--spacing-sm);
+  flex: 1;
+  flex-wrap: wrap;
+  min-width: 0;
+}
+
+.book-card-header-main .badge {
+  flex-shrink: 0;
+}
+
+.book-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin: 0;
+  color: var(--color-gray-800);
+  flex: 1;
+  min-width: 0;
+}
+
+.book-card-menu-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--spacing-xs);
+  border: none;
+  background: transparent;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  color: var(--color-gray-500);
+  transition: background var(--transition-base), color var(--transition-base), transform var(--transition-fast);
+}
+
+.book-card-menu-toggle:hover,
+.book-card-menu-toggle:focus-visible {
+  background: var(--color-gray-100);
+  color: var(--color-gray-700);
+  outline: none;
+}
+
+.book-card-menu-icon {
+  width: 4px;
+  height: 4px;
+  border-radius: var(--radius-full);
+  background: currentColor;
+  position: relative;
+}
+
+.book-card-menu-icon::before,
+.book-card-menu-icon::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  width: 4px;
+  height: 4px;
+  border-radius: var(--radius-full);
+  background: currentColor;
+}
+
+.book-card-menu-icon::before {
+  top: -6px;
+}
+
+.book-card-menu-icon::after {
+  top: 6px;
+}
+
+.book-card-menu {
+  position: absolute;
+  top: var(--spacing-sm);
+  right: var(--spacing-sm);
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xs);
+  padding: var(--spacing-sm);
+  background: #fff;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+  border: 1px solid var(--color-gray-200);
+  min-width: 180px;
+  z-index: 10;
+}
+
+.book-card-menu-item {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--spacing-sm);
+  padding: 0.5rem var(--spacing-sm);
+  border: none;
+  background: transparent;
+  border-radius: var(--radius-md);
+  color: var(--color-gray-700);
+  font-size: 0.875rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background var(--transition-base), color var(--transition-base);
+}
+
+.book-card-menu-item:hover,
+.book-card-menu-item:focus-visible {
+  background: var(--color-gray-100);
+  color: var(--color-gray-900);
+  outline: none;
+}
+
+.book-card-menu-item--delete {
+  color: var(--color-danger);
+  font-weight: 700;
+}
+
+.book-card-menu-item--delete:hover,
+.book-card-menu-item--delete:focus-visible {
+  background: rgba(239, 68, 68, 0.15);
+  color: var(--color-danger-dark);
+}
+
+.book-card-menu-item:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.book-card-menu-item:disabled:hover,
+.book-card-menu-item:disabled:focus-visible {
+  background: transparent;
+  color: var(--color-gray-500);
+}
+
+/* Контент карточки */
+.book-card-details {
+  margin: var(--spacing-sm) 0 0;
+  color: var(--color-gray-500);
+  font-size: 0.95rem;
+}
+
+.book-card-details p {
+  margin: var(--spacing-xs) 0;
+}
+
+.book-card-details strong {
+  color: var(--color-gray-700);
+}
+
+/* Заголовок списка и контролы */
+.books-list-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--spacing-lg);
+  flex-wrap: wrap;
+  gap: var(--spacing-md);
+}
+
+.books-controls {
+  display: flex;
+  gap: var(--spacing-md);
+  align-items: center;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .books-list-header {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}

@@ -1,0 +1,1 @@
+export const ipAddress = 'http://localhost:3001';
